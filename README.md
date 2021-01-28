@@ -1,7 +1,7 @@
 # truffle_init
 Boiler plate truffle project
 
-##Related links
+## Related links
 
 [Ganache (local blockchain)](https://www.trufflesuite.com/ganache)
 
